@@ -20,7 +20,7 @@ The objective of this task is to design and implement a **Star Schema** for sale
 # Schema Design:
   - The data was converted from a single transactional table into a **Star Schema** consisting of:
 
-     ## Dimension Tables
+    - ## Dimension Tables
 - dim_customer : customer details
 - dim_product : product information
 - dim_country : country details
